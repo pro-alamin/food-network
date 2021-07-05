@@ -1,0 +1,122 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+
+#word-highlight{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 4%;
+}
+.half-width img{
+    width: 80%;
+
+}
+
+.half-width-b{
+    width: 75%;
+    padding-top: 90px;
+    padding-left: 40px;
+}
+.hh{
+    padding: 120px;
+    margin: 0px 80px 80px 50px;
+ 
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 12px 30px;
+    border-radius: 30px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight:700;
+}
+.about-section{
+    background-image: url(img/bg/bg-1.png);
+    background-repeat: no-repeat;
+}
+.recipie-container{
+    margin-top: -130px;
+    padding: 40px;
+}
+.ricipies-details{
+    text-align: center;
+}
+.ricipies-details p{
+    font-size: 20px;
+    padding: 20px;
+}
+.recipie-iteam{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 30px;
+    padding: 20px;
+
+    box-shadow: 5px 10px 5px 10px rgb(197, 189, 189);
+    
+}
+.recipie-iteam-img img{
+    width: 100%;
+    border-radius: 2px;
+}
+.recipie-iteam-img {
+    padding: 0px;
+}
+.recipie-read-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 6px 15px;
+    border-radius: 25px;
+    background-image: linear-gradient(rgba(255, 166, 0, 0.576), rgba(255, 99, 71, 0.713));
+    color: white;
+    font-weight:700;
+    text-align: center;
+}
+.free-meal-section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.free-meal-div{
+    text-align: center;
+    background-color:rgb(201, 255, 146);
+    width: auto;
+    padding: 150px;
+}
+.form-control {
+    display: block;
+    width: 90%;
+    padding: 15px 25px;
+    font-size: 20px;
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: rgb(43, 39, 39);
+    color: blanchedalmond;
+    width: auto;
+    height: 300px;
+    margin-top: 120px;
+    
+}
+footer p{
+    font-size: 13px;
+}
+.footer-div{
+    padding: 30px;
+    margin-top: 20px;
+}
+
