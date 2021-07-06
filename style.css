@@ -9,6 +9,7 @@ h1{
 #word-highlight{
     color: orange;
 }
+
 .flexible-container{
     display: flex;
 }
@@ -20,15 +21,21 @@ h1{
     width: 80%;
 
 }
+.section-top{
+    margin-top: 60px;
+    margin-left: 30px;
+}
 
-.half-width-b{
+.half-width-about{
     width: 75%;
     padding-top: 90px;
     padding-left: 40px;
+    margin-top: 25px;
+    margin-right: 50px;
 }
-.hh{
-    padding: 120px;
-    margin: 0px 80px 80px 50px;
+.div-profile2-img{
+    padding: 70px;
+    margin-left: 80px;
  
 }
 
@@ -111,6 +118,9 @@ footer{
     height: 300px;
     margin-top: 120px;
     
+}
+#word-highlight-food{
+    color: orange;
 }
 footer p{
     font-size: 13px;
